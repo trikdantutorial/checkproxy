@@ -8,7 +8,7 @@ function banner(){
 		echo -e "\t${p}_________________________"
 		echo -e "\t${h}  TOOLS SCANNING PROXY"
 		echo -e "\t${p}   Author${m}: ${p}TrikDanTutorial "
-		echo -e "\t${p}    Trik Dan Tutorial"
+		echo -e "\t${p}    Youtube TRIK DAN TUTORIAL"
 		echo -e "\t${p}    Recode bye Phreaker Jabar "
 		echo -e "\t${p}_________________________"
 	   	
